@@ -1,0 +1,9 @@
+git clone https://github.com/octra-labs/wallet-gen.git
+cd wallet-gen
+chmod +x ./start.sh
+./start.sh
+chmod +x ./start.sh
+./start.sh
+start.bat
+start.bat
+
